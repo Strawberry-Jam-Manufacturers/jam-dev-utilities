@@ -113,4 +113,10 @@ export const tools = [
       "Easily decode JWT tokens and view their header, payload, and signature. Perfect for debugging and analyzing JSON Web Tokens.",
     link: "/utilities/jwt-parser",
   },
+  {
+    title: "Lorem Ipsum Generator",
+    description:
+      "Easily generate random Lorem Ipsum text for your design projects. Perfect for placeholder content and layout previews.",
+    link: "/utilities/lorem-ipsum-generator",
+  },
 ];

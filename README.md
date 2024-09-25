@@ -43,6 +43,7 @@ Here is the list of all utilities:
 - [Image Resizer](https://jam.dev/utilities/image-resizer)
 - [CSS Units Converter](https://jam.dev/utilities/css-units-converter)
 - [JWT Parser](https://jam.dev/utilities/jwt-parser)
+- [Lorem Ipsum Generator](https://jam.dev/utilities/lorem-ipsum-generator)
 
 ### Built With
 
@@ -57,6 +58,7 @@ Here is the list of all utilities:
 - [Papa Parse](https://www.papaparse.com/)
 - [js-yaml](https://github.com/nodeca/js-yaml)
 - [curlconverter](https://github.com/curlconverter/curlconverter)
+- [lorem-ipsum](https://github.com/knicklabs/lorem-ipsum.js)
 
 ## Getting Started
 
