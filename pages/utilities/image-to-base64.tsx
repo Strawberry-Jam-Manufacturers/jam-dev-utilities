@@ -64,7 +64,7 @@ export default function ImageToBase64() {
             <Button variant="outline" onClick={() => handleCopyBase64(base64)}>
               {buttonBase64}
             </Button>
-            
+
             <DividerComponent margin="medium" />
 
             <Label>Use in {"<img>"} tag:</Label>
