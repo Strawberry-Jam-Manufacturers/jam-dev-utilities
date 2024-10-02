@@ -114,6 +114,12 @@ export const tools = [
     link: "/utilities/jwt-parser",
   },
   {
+    title: "Hash Generator",
+    description:
+      "Quickly generate secure hashes for your text using algorithms like SHA-256, SHA-512, MD5, and more. Ideal for password hashing, data integrity checks, and cryptographic applications.",
+    link: "/utilities/hash-generator",
+  },
+  {
     title: "Lorem Ipsum Generator",
     description:
       "Easily generate random Lorem Ipsum text for your design projects. Perfect for placeholder content and layout previews.",
