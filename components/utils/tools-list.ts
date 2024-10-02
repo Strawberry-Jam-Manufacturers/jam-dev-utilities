@@ -108,6 +108,18 @@ export const tools = [
     link: "/utilities/image-resizer",
   },
   {
+    title: "XML to JSON Converter",
+    description:
+      "Easily convert XML data to JSON format for better compatibility with modern APIs and web development.",
+    link: "/utilities/xml-to-json",
+  },
+  {
+    title: "JSON to XML Converter",
+    description:
+      "Easily convert JSON data to XML format for seamless data exchange and system integrations. Perfect for working with APIs and structured data.",
+    link: "/utilities/json-to-xml",
+  },
+  {
     title: "JWT Parser",
     description:
       "Easily decode JWT tokens and view their header, payload, and signature. Perfect for debugging and analyzing JSON Web Tokens.",
